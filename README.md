@@ -61,9 +61,8 @@ Debes configurar variables de entorno.
 
 ## 👥 Autores
 
-**Bases de Datos 2**  
-Universidad El Bosque
--Sebastian Ernesto Carroz Añez
--Andres Camilo Guerrero Mateus
+Este proyecto fue desarrollado en el marco de la asignatura **Bases de Datos II**  
+en la **Universidad El Bosque**.
 
----
+- Sebastián Ernesto Carroz Añez  
+- Andrés Camilo Guerrero Mateus

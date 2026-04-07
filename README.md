@@ -42,3 +42,28 @@ controller → service → repository → database
 ---
 
 El proyecto sigue una arquitectura en capas:
+controller → service → repository → database
+
+
+- **Controller**: expone endpoints REST
+- **Service**: contiene lógica de negocio
+- **Repository**: acceso a datos
+- **Config**: configuración de la aplicación
+
+---
+
+## 🔐 Configuración
+
+Las credenciales NO están incluidas en el repositorio.  
+Debes configurar variables de entorno.
+
+---
+
+## 👥 Autores
+
+**Bases de Datos 2**  
+Universidad El Bosque
+-Sebastian Ernesto Carroz Añez
+-Andres Camilo Guerrero Mateus
+
+---
